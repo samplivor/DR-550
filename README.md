@@ -1,11 +1,13 @@
-[Download](https://bit.ly/3xWOUU3)
+### These samples are free but your support is always welcome!
+
+[Download](https://bit.ly/39hEyUD) | [Name your own price](https://www.paypal.com/donate/?hosted_button_id=ASWDQ37Y4XFCQ)
 
 # DR-550
 Recorded in <don't remember> / 44.1 khz / 24 Bit / Mono / 384 WAV Files / 10.4 MB Zip
 
 I don't remember in which device I recorded those samples, I think its either my Zoom h4n or Roland MV-8800.
 
-You'll find 48 instruments * 8 variations (called "color" in the device) for a total of 384 files.
+You'll find 48 instruments * 8 variations (named "color") for a total of __384 files__.
 
 01. KCK1
 02. KCK2
